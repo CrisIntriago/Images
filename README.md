@@ -1,2 +1,2 @@
 # Images
-Aquí guardo las imagenes para mi proyecto jeje
+Hack para tener imagenes para tus proyectos web
